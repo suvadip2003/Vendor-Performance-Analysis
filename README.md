@@ -6,7 +6,7 @@ This project analyzes sales and vendor data to identify top performers, pinpoint
 ---
 ### Dashboard Preview
 Here is a look at the final dashboard:
-[Live Interactive Dashboard Link]([YOUR_PUBLIC_LINK_HERE](https://app.powerbi.com/links/0T_UBLdVq5?ctid=b1703185-2d99-40e5-86e1-3a22312faf76&pbi_source=linkShare))
+[Live Interactive Dashboard Link](https://app.powerbi.com/links/0T_UBLdVq5?ctid=b1703185-2d99-40e5-86e1-3a22312faf76&pbi_source=linkShare))
 
 ---
 ### Key Insights
